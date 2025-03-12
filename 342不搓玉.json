@@ -1,0 +1,404 @@
+{
+    "title": "342不搓玉",
+    "description": "323贸易3133制造2电站高配活动时用只能使用本地json方式挂载MAA",
+    "plans": [
+        {
+            "name": "8-16时",
+            "description": "最高效率长班",
+            "description_post": "下次换班请在约8小时后进行",
+            "period": [
+                [
+                    "08:00",
+                    "15:59"
+                ]
+            ],
+            "Fiammetta": {
+                "enable": true,
+                "target": "巫恋",
+                "order": "pre"
+            },
+            "drones": {
+                "room": "trading",
+                "index": 1,
+                "order": "pre"
+            },
+            "rooms": {
+                "control": [
+                    {
+                        "operators": [
+                            "阿米娅",
+                            "重岳",
+                            "琴柳",
+                            "令",
+                            "夕"
+                        ]
+                    }
+                ],
+                "trading": [
+                    {
+                        "product": "LMD",
+                        "operators": [
+                            "巫恋",
+                            "明椒",
+                            "龙舌兰"
+                        ],
+                        "sort": true
+                    },
+                    {
+                        "product": "LMD",
+                        "operators": [
+                            "古米",
+                            "月见夜"
+                        ]
+                    },
+                    {
+                        "product": "LMD",
+                        "operators": [
+                            "能天使",
+                            "拉普兰德",
+                            "德克萨斯"
+                        ],
+                        "sort": true
+                    }
+                ],
+                "manufacture": [
+                    {
+                        "product": "Pure Gold",
+                        "operators": [
+                            "砾",
+                            "迷迭香",
+                            "槐琥"
+                        ]
+                    },
+                    {
+                        "product": "Battle Record",
+                        "operators": [
+                            "断罪者"
+                        ]
+                    },
+                    {
+                        "product": "Pure Gold",
+                        "operators": [
+                            "白面鸮",
+                            "海沫",
+                            "水月"
+                        ]
+                    },
+                    {
+                        "product": "Pure Gold",
+                        "operators": [
+                            "贝娜",
+                            "泡泡",
+                            "火神"
+                        ]
+                    }
+                ],
+                "power": [
+                    {
+                        "operators": [
+                            "承曦格雷伊"
+                        ]
+                    },
+                    {
+                        "operators": [
+                            "澄闪"
+                        ]
+                    }
+                ],
+                "hire": [
+                    {
+                        "operators": [
+                            "絮雨"
+                        ]
+                    }
+                ],
+                "meeting": [
+                    {
+                        "operators": [
+                            "伺夜",
+                            "陈"
+                        ]
+                    }
+                ],
+                "dormitory": [
+                    {
+                        "operators": [
+                            "菲亚梅塔"
+                        ],
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    }
+                ]
+            }
+        },
+        {
+            "name": "16时-23时搓玉",
+            "description": "最高效率长班",
+            "description_post": "下次换班请在约7小时后进行",
+            "drones": {
+                "room": "trading",
+                "index": 1,
+                "order": "pre"
+            },
+            "period": [
+                [
+                    "16:00",
+                    "22:59"
+                ]
+            ],
+            "rooms": {
+                "control": [
+                    {
+                        "operators": [
+                            "麒麟X夜刀",
+                            "火龙S黑角",
+                            "灵知",
+                            "玛恩纳",
+                            "森蚺"
+                        ]
+                    }
+                ],
+                "trading": [
+                    {
+                        "operators": [
+                            "巫恋",
+                            "卡夫卡",
+                            "龙舌兰"
+                        ],
+                        "sort": true,
+                        "product": "LMD"
+                    },
+                    {
+                        "operators": [
+                            "泰拉大陆调查团",
+                            "空爆"
+                        ],
+                        "product": "LMD"
+                    },
+                    {
+                        "operators": [
+                            "孑",
+                            "银灰",
+                            "崖心"
+                        ],
+                        "product": "LMD"
+                    }
+                ],
+                "manufacture": [
+                    {
+                        "operators": [
+                            "清流",
+                            "异客",
+                            "温蒂"
+                        ],
+                        "product": "Pure Gold"
+                    },
+                    {
+                        "operators": [
+                            "断罪者"
+                        ],
+                        "product": "Battle Record"
+                    },
+                    {
+                        "operators": [
+                            "白面鸮",
+                            "海沫",
+                            "水月"
+                        ],
+                        "product": "Pure Gold"
+                    },
+                    {
+                        "operators": [
+                            "贝娜",
+                            "泡泡",
+                            "火神"
+                        ],
+                        "product": "Pure Gold"
+                    }
+                ],
+                "power": [
+                    {
+                        "operators": [
+                            "承曦格雷伊"
+                        ]
+                    },
+                    {
+                        "operators": [
+                            "Lancet-2"
+                        ]
+                    }
+                ],
+                "hire": [
+                    {
+                        "operators": [
+                            "艾雅法拉"
+                        ]
+                    }
+                ],
+                "meeting": [
+                    {
+                        "operators": [
+                            "晓歌",
+                            "远山"
+                        ]
+                    }
+                ],
+                "dormitory": [
+                    {
+                        "operators": [
+                            "菲亚梅塔"
+                        ],
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    }
+                ]
+            }
+        },
+        {
+            "name": "23时-8时不搓玉",
+            "description": "次高效替补 1 班",
+            "description_post": "下次换班请在约9小时后进行",
+            "Fiammetta": {
+                "enable": true,
+                "target": "龙舌兰",
+                "order": "pre"
+            },
+            "drones": {
+                "room": "trading",
+                "index": 1,
+                "order": "pre"
+            },
+            "rooms": {
+                "control": [
+                    {
+                        "operators": [
+                            "阿米娅",
+                            "凯尔希",
+                            "灵知",
+                            "玛恩纳",
+                            "森蚺"
+                        ]
+                    }
+                ],
+                "trading": [
+                    {
+                        "operators": [
+                            "巫恋",
+                            "柏喙",
+                            "龙舌兰"
+                        ],
+                        "sort": true,
+                        "product": "LMD"
+                    },
+                    {
+                        "operators": [
+                            "古米",
+                            "空爆"
+                        ],
+                        "product": "LMD"
+                    },
+                    {
+                        "operators": [
+                            "孑",
+                            "银灰",
+                            "崖心"
+                        ],
+                        "product": "LMD"
+                    }
+                ],
+                "manufacture": [
+                    {
+                        "operators": [
+                            "清流",
+                            "异客",
+                            "温蒂"
+                        ],
+                        "product": "Pure Gold"
+                    },
+                    {
+                        "operators": [
+                            "食铁兽"
+                        ],
+                        "product": "Battle Record"
+                    },
+                    {
+                        "operators": [
+                            "斑点",
+                            "夜烟",
+                            "梅尔"
+                        ],
+                        "product": "Pure Gold"
+                    },
+                    {
+                        "operators": [
+                            "石棉",
+                            "红云",
+                            "刻俄柏"
+                        ],
+                        "product": "Pure Gold"
+                    }
+                ],
+                "power": [
+                    {
+                        "operators": [
+                            "承曦格雷伊"
+                        ]
+                    },
+                    {
+                        "operators": [
+                            "Lancet-2"
+                        ]
+                    }
+                ],
+                "hire": [
+                    {
+                        "operators": [
+                            "艾雅法拉"
+                        ]
+                    }
+                ],
+                "meeting": [
+                    {
+                        "operators": [
+                            "伺夜",
+                            "陈"
+                        ]
+                    }
+                ],
+                "dormitory": [
+                    {
+                        "operators": [
+                            "菲亚梅塔"
+                        ],
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    },
+                    {
+                        "autofill": true
+                    }
+                ]
+            }
+        }
+    ]
+}
