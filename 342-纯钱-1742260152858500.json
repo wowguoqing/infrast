@@ -1,7 +1,7 @@
 {
   "author": "NeoWu",
   "description": "342纯钱-三队列(2025/3)",
-  "id": 1742260152858500,
+  "id": 1745836330652670,
   "title": "342纯钱-三队列",
   "buildingType": 243,
   "planTimes": "3班",
@@ -121,38 +121,26 @@
           {
             "skip": false,
             "operators": [
-              "槐琥",
-              "迷迭香",
-              "絮雨",
-              "夕",
               "塑心"
             ],
-            "sort": false,
-            "autofill": false
+            "sort": true,
+            "autofill": true
           },
           {
             "skip": false,
             "operators": [
-              "杜林",
-              "槐琥",
-              "迷迭香",
-              "絮雨",
-              "夕"
+              "杜林"
             ],
-            "sort": false,
-            "autofill": false
+            "sort": true,
+            "autofill": true
           },
           {
             "skip": false,
             "operators": [
-              "令",
-              "黑键",
-              "卡夫卡",
-              "医生",
-              "琴柳"
+              "医生"
             ],
-            "sort": false,
-            "autofill": false
+            "sort": true,
+            "autofill": true
           },
           {
             "skip": false,
@@ -497,7 +485,7 @@
           {
             "skip": false,
             "operators": [
-              "澄闪"
+              "炎狱炎熔"
             ],
             "sort": false,
             "autofill": false
