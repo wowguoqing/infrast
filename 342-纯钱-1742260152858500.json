@@ -1,7 +1,7 @@
 {
   "author": "NeoWu",
   "description": "342纯钱-三队列(2025/3)",
-  "id": 1745836330652670,
+  "id": 1748013221705153,
   "title": "342纯钱-三队列",
   "buildingType": 243,
   "planTimes": "3班",
@@ -17,8 +17,8 @@
       },
       "drones": {
         "room": "trading",
-        "index": 1,
-        "enable": false,
+        "index": 3,
+        "enable": true,
         "order": "pre"
       },
       "rooms": {
@@ -202,8 +202,8 @@
       },
       "drones": {
         "room": "trading",
-        "index": 1,
-        "enable": false,
+        "index": 3,
+        "enable": true,
         "order": "pre"
       },
       "rooms": {
@@ -399,8 +399,8 @@
       },
       "drones": {
         "room": "trading",
-        "index": 1,
-        "enable": false,
+        "index": 3,
+        "enable": true,
         "order": "pre"
       },
       "rooms": {
@@ -493,7 +493,7 @@
           {
             "skip": false,
             "operators": [
-              "海霓"
+              "澄闪"
             ],
             "sort": false,
             "autofill": false
